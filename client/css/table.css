@@ -1,0 +1,25 @@
+/* CSS untuk men-centerkan teks dalam tabel */
+.table-striped td {
+    text-align: center; /* Men-centerkan teks di semua sel tabel */
+    vertical-align: middle; /* Menengahkan teks secara vertikal */
+    background-color: #fdf0cb;
+}
+
+.table-striped th {
+    background-color: #fea116;
+    color: #fff;
+}
+
+.table-striped .deskripsi{
+    width: 220px;
+}
+
+.table-striped .center{
+    text-align: center;
+}
+
+/* Tambahkan padding untuk memperbaiki penampilan */
+.table-striped td img {
+    display: block;
+    margin: 0 auto; /* Men-centerkan gambar */
+}
