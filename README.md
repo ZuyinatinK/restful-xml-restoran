@@ -11,6 +11,28 @@ Website **Hangari Haven** memungkinkan pelanggan restoran untuk melihat daftar m
 ![Preview-2](Markdown/preview-2.png)
 
 
+## Daftar Isi
+
+1. [Tentang Hangari Haven](#tentang-hangari-haven)
+2. [Fitur Utama](#fitur-utama)
+3. [Teknologi yang Digunakan](#teknologi-yang-digunakan)
+4. [Download dan Install](#download-dan-install)
+5. [Persyaratan](#persyaratan)
+6. [Struktur Direktori](#struktur-direktori)
+7. [Persiapan Sistem Operasi Debian Server 11.05](#persiapan-sistem-operasi-debian-server-1105)
+   1. [Installasi dan Konfigurasi Debian Server](#installasi-dan-konfigurasi-debian-server)
+   2. [Installasi XAMPP di Debian Server](#installasi-xampp-di-debian-server)
+   3. [Jalankan XAMPP saat Booting](#jalankan-xampp-saat-booting)
+8. [Langkah-langkah Instalasi Program](#langkah-langkah-instalasi-program)
+   1. [Konfigurasi PHP](#konfigurasi-php)
+   2. [Clone Repository dan Konfigurasi Direktori](#clone-repository-dan-konfigurasi-direktori)
+   3. [Konfigurasi Database](#konfigurasi-database)
+   4. [Penyesuaian URL di Client](#penyesuaian-url-di-client)
+   5. [Mengakses Aplikasi](#mengakses-aplikasi)
+9. [Preview Tampilan Website](#preview-tampilan-website)
+10. [Kesimpulan](#kesimpulan)
+11. [Kontributor](#kontributor)
+
 ## Tentang Hangari Haven
 **Hangari Haven** adalah platform digital yang dikembangkan untuk restoran Korea agar dapat mempromosikan bisnis mereka secara lebih efektif. Dengan menggunakan **RESTful API** berbasis **XML**, admin dapat mengelola data menu seperti menambah, mengubah, dan menghapus data, termasuk upload foto menu yang akan tersimpan di server. 
 
